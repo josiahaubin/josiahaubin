@@ -1,5 +1,6 @@
 .img-banner {
   background-image: url('http://3.bp.blogspot.com/-6_tU0tRj4og/Tm-c9VCn42I/AAAAAAAAEvo/ET-a8p-j0mU/s1600/solid%2Bblue%2Bcolor%2Bbackgrounds%2B2.jpg');
+  background-color: #ffffff; 
   height: 40vh;
   background-size: cover;
 }
@@ -17,4 +18,7 @@
 }
 .h3-banner {
   font-size: 3rem;
+}
+.link-row {
+  background-color: #f2f2f2;
 }
