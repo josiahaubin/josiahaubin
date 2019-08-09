@@ -24,6 +24,10 @@
   border-radius: 5px;
   box-shadow: 0px 0px 10px 2px;
 }
+.img-code {
+  height: 10vh;
+  width: 10vh;
+}
 .txt-font {
   font-family: 'Indie Flower', cursive;
 }
@@ -47,6 +51,9 @@ p, ul {
   background-color: #f2f2f2;
 }
 .personal-row {
+  height: 90vh;
+}
+.coding-row {
   height: 90vh;
 }
 ::-webkit-scrollbar {
