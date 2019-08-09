@@ -1,0 +1,20 @@
+.img-banner {
+  background-image: url('http://3.bp.blogspot.com/-6_tU0tRj4og/Tm-c9VCn42I/AAAAAAAAEvo/ET-a8p-j0mU/s1600/solid%2Bblue%2Bcolor%2Bbackgrounds%2B2.jpg');
+  height: 40vh;
+  background-size: cover;
+}
+.img-headshot {
+  height: 25vh;
+  width: 25vh;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 2px;
+}
+.txt-banner {
+  font-family: 'Indie Flower', cursive;
+}
+.h1-banner {
+  font-size: 8rem;
+}
+.h3-banner {
+  font-size: 3rem;
+}
