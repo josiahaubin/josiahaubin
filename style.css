@@ -59,3 +59,36 @@ p, ul {
 ::-webkit-scrollbar {
   display: none;
 }
+.clr-html {
+  color: #EC6633;
+}
+.clr-css {
+  color: #128FD2;
+}
+.clr-js {
+  color: #FBDF5E;
+}
+.clr-cmd {
+  color: #8EC63F;
+}
+.clr-git {
+  color: #EF5032;
+}
+.clr-njs {
+  color: #76993E;
+}
+.clr-vjs {
+  color: #4CBB88;
+}
+.clr-ang {
+  color: #B52E31;
+}
+.clr-react {
+  color: #00D9FF;
+}
+.clr-aws {
+  color: #FBB135;
+}
+.clr-dock {
+  color: #0061BD;
+}
