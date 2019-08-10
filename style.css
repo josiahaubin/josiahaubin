@@ -25,8 +25,8 @@
   box-shadow: 0px 0px 10px 2px;
 }
 .img-code {
-  height: 10vh;
-  width: 10vh;
+  height: 12vh;
+  width: 12vh;
 }
 .txt-font {
   font-family: 'Indie Flower', cursive;
@@ -35,7 +35,7 @@
   font-family: 'Blinker', sans-serif;
 }
 .h1-banner {
-  font-size: 8rem;
+  font-size: 7rem;
 }
 .h3-banner {
   font-size: 3rem;
@@ -52,6 +52,9 @@ p, ul {
 }
 .personal-row {
   height: 90vh;
+}
+.knowledgebase-row {
+  height: 30vh;
 }
 .coding-row {
   height: 90vh;
