@@ -28,6 +28,10 @@
   height: 12vh;
   width: 12vh;
 }
+.img-projects {
+  height: 25vh;
+  width: 25vh;
+}
 .txt-font {
   font-family: 'Indie Flower', cursive;
 }
