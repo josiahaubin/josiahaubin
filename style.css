@@ -4,6 +4,11 @@
   height: 40vh;
   background-size: cover;
 }
+.img-footer {
+  background-image: url('http://3.bp.blogspot.com/-6_tU0tRj4og/Tm-c9VCn42I/AAAAAAAAEvo/ET-a8p-j0mU/s1600/solid%2Bblue%2Bcolor%2Bbackgrounds%2B2.jpg');
+  height: 12vh;
+  background-size: cover;
+}
 .img-headshot {
   height: 25vh;
   width: 25vh;
