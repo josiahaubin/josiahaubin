@@ -51,13 +51,17 @@ p, ul {
   background-color: #f2f2f2;
 }
 .personal-row {
-  height: 90vh;
+  height: 110vh;
 }
 .knowledgebase-row {
-  height: 30vh;
+  height: 10vh;
 }
 .coding-row {
-  height: 90vh;
+  height: 110vh;
+  overflow: scroll;
+}
+.projects-row {
+  height: 50vh;
 }
 ::-webkit-scrollbar {
   display: none;
