@@ -37,6 +37,9 @@
   height: 25vh;
   width: 25vh;
 }
+.bg-black {
+  background-color: black;
+}
 .txt-font {
   font-family: 'Indie Flower', cursive;
 }
