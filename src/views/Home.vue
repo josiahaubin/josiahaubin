@@ -24,4 +24,8 @@ export default {
 .h5-edu {
   display: inline;
 }
+.bsu {
+  height: 10vh;
+  width: 12vh;
+}
 </style>

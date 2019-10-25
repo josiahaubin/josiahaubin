@@ -17,28 +17,37 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Boise_State_%22B%22_logo.svg/1200px-Boise_State_%22B%22_logo.svg.png"
       alt="BSU Logo"
-      class="edu-img my-3"
+      class="bsu my-3"
     />
     <h5 class="h5-edu ml-2">Boise State University</h5>
     <p class="text-left">
       I received a Bachelors of Business Administration in Information Technology Management,
-      with a GPA of 3.993. I also was honored to join The College of Business and Economic's chapter of Beta Gamma
+      with a GPA of 3.994. I also was honored to join The College of Business and Economic's chapter of Beta Gamma
       Sigma, a prestigious nationally recognized honor society. I became the Vice President of Membership and Alumni
       for my chapter of Beta Gamma Sigma during my senior year. Finally, I was honored as a Signature Student for
       the ITM program for the spring 19 semester.
-      <br />During my time there I gained knowledge in:
+      <br />
+      <br />During my time at BSU I gained knowledge in:
     </p>
-    <ul class="text-left list-unstyled mx-4">
-      <li>Networking</li>
-      <li>C#, HTML, XAML</li>
-      <li>SQL</li>
-      <li>Data Analytics</li>
-      <li>Power BI</li>
-      <li>Microsoft Office Applications</li>
-      <li>UML</li>
-      <li>AWS</li>
-      <li>Information Security</li>
-    </ul>
+    <div class="row">
+      <div class="col-5 offset-1">
+        <ul class="text-left list-unstyled">
+          <li>Networking</li>
+          <li>C#, HTML, XAML</li>
+          <li>SQL</li>
+          <li>Data Analytics</li>
+          <li>Power BI</li>
+        </ul>
+      </div>
+      <div class="col-5">
+        <ul class="text-left list-unstyled">
+          <li>Microsoft Office Applications</li>
+          <li>UML</li>
+          <li>AWS</li>
+          <li>Information Security</li>
+        </ul>
+      </div>
+    </div>
   </div>
 </template>
 

@@ -1,6 +1,7 @@
 <template>
   <div class="WhoAmI col-12 col-md-6">
     <h3>Who Am I?</h3>
+    <img alt />
     <p class="text-left mt-4 mx-3">
       Greetings, my name is Josiah Aubin. I am a software developer who loves
       all
