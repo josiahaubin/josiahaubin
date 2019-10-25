@@ -39,12 +39,11 @@
 }
 
 #nav a {
-  font-weight: bold;
   color: black;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+#nav a:hover {
+  color: blue;
 }
 
 #nav img {

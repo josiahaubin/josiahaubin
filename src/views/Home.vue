@@ -1,19 +1,27 @@
 <template>
   <div class="home">
     <div class="row mt-5">
-      <div class="col-12 col-md-6">
-        <h3>Who Am I?</h3>
-      </div>
-      <div class="col-12 col-md-6">
-        <h3>Education</h3>
-      </div>
+      <WhoAmI />
+      <Education />
     </div>
   </div>
 </template>
 
 <script>
+import WhoAmI from "../components/WhoAmI";
+import Education from "../components/Education";
 export default {
   name: "home",
-  components: {}
+  components: { WhoAmI, Education }
 };
 </script>
+
+<style>
+.edu-img {
+  height: 10vh;
+  width: 10vh;
+}
+.h5-edu {
+  display: inline;
+}
+</style>
