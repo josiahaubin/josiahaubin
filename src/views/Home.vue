@@ -3,6 +3,7 @@
     <div class="row mt-5">
       <WhoAmI />
       <Education />
+      <KnowledgeBase />
     </div>
   </div>
 </template>
@@ -10,9 +11,10 @@
 <script>
 import WhoAmI from "../components/WhoAmI";
 import Education from "../components/Education";
+import KnowledgeBase from "../components/KnowledgeBase";
 export default {
   name: "home",
-  components: { WhoAmI, Education }
+  components: { WhoAmI, Education, KnowledgeBase }
 };
 </script>
 
