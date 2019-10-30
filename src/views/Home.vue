@@ -3,8 +3,8 @@
     <div class="row mt-5">
       <WhoAmI />
       <Education />
-      <KnowledgeBase />
     </div>
+    <KnowledgeBase />
   </div>
 </template>
 
