@@ -1,5 +1,5 @@
 <template>
-  <div class="KnowledgeBase row mt-4">
+  <div class="KnowledgeBase">
     <div class="col-12 col-md-12">
       <h3>Knowledge Base</h3>
       <i class="fab fa-html5 fa-7x m-5 clr-html"></i>

@@ -4,7 +4,10 @@
       <WhoAmI />
       <Education />
     </div>
-    <KnowledgeBase />
+    <div class="row mt-4">
+      <KnowledgeBase />
+    </div>
+    <Projects />
   </div>
 </template>
 
@@ -12,9 +15,10 @@
 import WhoAmI from "../components/WhoAmI";
 import Education from "../components/Education";
 import KnowledgeBase from "../components/KnowledgeBase";
+import Projects from "../components/Projects";
 export default {
   name: "home",
-  components: { WhoAmI, Education, KnowledgeBase }
+  components: { WhoAmI, Education, KnowledgeBase, Projects }
 };
 </script>
 
