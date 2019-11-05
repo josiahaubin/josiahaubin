@@ -22,6 +22,12 @@
           <a href="https://www.linkedin.com/in/josiah-aubin/" class="mx-2">
             <i class="fab fa-linkedin"></i> LinkedIn
           </a>
+          <a
+            href="https://www.canva.com/design/DADni0B8gtw/fviFCXAQo3XiN5tvCbDv0w/view?utm_content=DADni0B8gtw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+            class="mx-2"
+          >
+            <i class="fas fa-file"></i> Resume
+          </a>
         </div>
       </div>
     </div>

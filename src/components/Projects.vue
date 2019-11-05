@@ -23,7 +23,7 @@
       <p class="mt-1 mx-2">
         <b>Project Description:</b> Worked with a partner to create an application that allows users to create boards with lists, tasks, and comments. On the front-end we utilized Vue.Js, implementing the Vuex design and Vue-Router to manage the dom. This project also utilizes Express, Node.js, authentication, bcrypt, mongoose, and MongoDB.
       </p>
-      <a class="btn btn-dark kanBtn" href="https://craftban.herokuapp.com/">Go to Project</a>
+      <a class="btn btn-dark" href="https://craftban.herokuapp.com/">Go to Project</a>
     </div>
     <div class="col-md-4">
       <img src="http://www.drodd.com/images15/letter-k26.jpg" class="img-projects mb-2" />
@@ -31,7 +31,7 @@
       <p class="mt-1 mx-2">
         <b>Project Description:</b> Keepr is a social network, similar to Pinterest, that allows users to visually share, and discover new interests by posting images to their own or others' collections. It utilizes a Vue.Js front-end. The server side utilizes DotNet WebApi and implements the Repository pattern to communicate with the database. Keepr also utilizes bcrypt for password hashing, dapper as an ORM and MySQL as the database.
       </p>
-      <a class="btn btn-dark kprBtn" href="https://keeprbcw.herokuapp.com/">Go to Project</a>
+      <a class="btn btn-dark" href="https://keeprbcw.herokuapp.com/">Go to Project</a>
     </div>
   </div>
 </template>
@@ -59,6 +59,9 @@ export default {
   margin-top: 73px;
 }
 .kprBtn {
+  margin-top: 25px;
+}
+.highBtn {
   margin-top: 25px;
 }
 h3 {
