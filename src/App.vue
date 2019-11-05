@@ -26,6 +26,19 @@
       </div>
     </div>
     <router-view />
+    <div class="row my-4">
+      <div class="offset-1 col-md-3">
+        <a href="https://github.com/josiahaubin" class="text-dark">
+          <i class="fab fa-github fa-3x mx-3"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/josiah-aubin/" class="text-dark">
+          <i class="fab fa-linkedin fa-3x mx-3"></i>
+        </a>
+      </div>
+      <div class="offset-2 col-md-6">
+        <p>This page was made by Josiah Aubin</p>
+      </div>
+    </div>
   </div>
 </template>
 

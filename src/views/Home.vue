@@ -8,6 +8,7 @@
       <KnowledgeBase />
     </div>
     <Projects />
+    <Contact />
   </div>
 </template>
 
@@ -16,9 +17,10 @@ import WhoAmI from "../components/WhoAmI";
 import Education from "../components/Education";
 import KnowledgeBase from "../components/KnowledgeBase";
 import Projects from "../components/Projects";
+import Contact from "../components/Contact";
 export default {
   name: "home",
-  components: { WhoAmI, Education, KnowledgeBase, Projects }
+  components: { WhoAmI, Education, KnowledgeBase, Projects, Contact }
 };
 </script>
 
