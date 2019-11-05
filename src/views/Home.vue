@@ -4,10 +4,13 @@
       <WhoAmI />
       <Education />
     </div>
+    <hr />
     <div class="row mt-4">
       <KnowledgeBase />
     </div>
+    <hr />
     <Projects />
+    <hr />
     <Contact />
   </div>
 </template>

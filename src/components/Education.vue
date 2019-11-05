@@ -66,4 +66,11 @@ export default {
 
 
 <style scoped>
+h3 {
+  font-family: "Indie Flower", cursive;
+}
+h5,
+ul {
+  font-family: "Blinker", sans-serif;
+}
 </style>

@@ -57,4 +57,7 @@ export default {
 .p-marg {
   margin-top: 30px;
 }
+h2 {
+  font-family: "Indie Flower", cursive;
+}
 </style>

@@ -46,4 +46,7 @@ export default {
 
 
 <style scoped>
+h3 {
+  font-family: "Indie Flower", cursive;
+}
 </style>

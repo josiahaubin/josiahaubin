@@ -103,4 +103,7 @@ export default {
 .clr-bootstrap {
   color: #563d7c;
 }
+h3 {
+  font-family: "Indie Flower", cursive;
+}
 </style>
